@@ -1,4 +1,4 @@
-# 01-PYTHON-FUNDAMENTALS
+
 {
  "cells": [
   {
@@ -11,18 +11,18 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "Name: Ajay Thomas\n",
+      "Name: Preethy Prasannan\n",
       "Student_number: ST1001\n",
-      "Email: ajaythomas@gmail.com\n"
+      "Email: preethyprasannan2017@gmail.com\n"
      ]
     }
    ],
    "source": [
     "#1. print name, student number and email address\n",
     "\n",
-    "print('Name:','Ajay Thomas')\n",
+    "print('Name:','Preethy Prasannan')\n",
     "print('Student_number:','ST1001')\n",
-    "print('Email:','ajaythomas@gmail.com')"
+    "print('Email:','Preethyprasannan2017@gmail.com')"
    ]
   },
   {
